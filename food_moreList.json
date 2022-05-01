@@ -1,0 +1,30 @@
+[
+  {
+    "id":"1",
+    "title":"딸기 생크림 라운드",
+    "price":7800,
+    "image":"https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202203170812214960.png",
+    "text":"부드러운 생크림과 달콤한 딸기가 샌딩된 케이크에 생딸기를 올린 미니라운드 케이크"
+  },
+  {
+    "id":"2",
+    "title":"진한 마스카포네 티라미스",
+    "price":5800,
+    "image":"https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202108050732498550.png",
+    "text":"커피에 적신 촉촉한 시트와 마스카포네 치즈크림을 간편하게 떠먹는 타입의 티라미스"
+  },
+  {
+    "id":"3",
+    "title":"크림치즈비스켓&딸기잼",
+    "price":3700,
+    "image":"https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202105311034201890.png",
+    "text":"버터향이 가득한 촉촉한 비스켓 속 크림치즈가 들어간 풍미 가득한 비스켓"
+  },
+  {
+    "id":"4",
+    "title":"그릴드 치킨 샐러드",
+    "price":6300,
+    "image":"https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202201181053474600.png",
+    "text":"부드럽게 익힌 그릴드 치킨과 풍성한 재료, 오리엔탈소스가 어우러진 샐러드"
+  }
+]
